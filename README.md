@@ -28,5 +28,5 @@ Pronouns: She/Her
 
 - [Email](psing21@unh.newhaven.edu)
 - [LinkedIn](https://www.linkedin.com/in/priyanka-singh-4076427a/)  
-- [GitHub Portfolio](https://github.com/psing21/Portfolio) 
+- [GitHub Portfolio](https://psing21.github.io/Portfolio/)) 
   
